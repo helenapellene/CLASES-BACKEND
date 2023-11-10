@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Celular",
+		"description": "Comun",
+		"price": 250,
+		"img": "no img",
+		"code": "7869",
+		"stock": 25
+	},
+	{
+		"id": 2,
+		"title": "Calculadora",
+		"description": "Pro",
+		"price": 50,
+		"img": "no img",
+		"code": "3547",
+		"stock": 27
+	},
+	{
+		"id": 7,
+		"title": "Moto",
+		"description": "Pro",
+		"price": 50,
+		"img": "no img",
+		"code": "1572",
+		"stock": 30
+	}
+]
